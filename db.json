@@ -1,0 +1,53 @@
+{
+  "dicas": [
+      {"dica1":"personagem sem graça", 
+      "dica2":"bastardo",
+      "dica3":"King of the North",
+      "resposta":"Jon Snow"},
+      
+      {"dica1":"sitcom", 
+      "dica2":"ambientada em um escritorio",
+      "dica3":"World's best boss",
+      "resposta":"The Office"},
+      
+      {"dica1":"fruta", 
+      "dica2":"muito versátil",
+      "dica3":"amarela",
+      "resposta":"Banana"},
+      
+      {"dica1":"gosta de água", 
+      "dica2":"aparece mais a noite",
+      "dica3":"não lava o pé",
+      "resposta":"Sapo"},
+      
+      {"dica1":"aparelho divertido", 
+      "dica2":"entrete muitas crianças",
+      "dica3":"está cada vez mais tecnológico",
+      "resposta":"Vídeo Game"},
+      
+      {"dica1":"demonstração de carinho", 
+      "dica2":"é dado em todas as idades",
+      "dica3":"faz falta",
+      "resposta":"Abraço de mãe"},
+      
+      {"dica1":"é uma planta", 
+      "dica2":"vive bem dentro de casa",
+      "dica3":"tem espinhos",
+      "resposta":"Cacto"},
+      
+      {"dica1":"objeto de decoração", 
+      "dica2":"tem vários tamanhos",
+      "dica3":"reflete",
+      "resposta":"Espelho"},
+      
+      {"dica1":"meio de transporte", 
+      "dica2":"tem duas rodas",
+      "dica3":"ajuda a fazer exercício",
+      "resposta":"Bicicleta"},
+      
+      {"dica1":"produz fogo", 
+      "dica2":"comumente é perdido com facilidade",
+      "dica3":"é pequeno",
+      "resposta":"Isqueiro"}
+  ]
+}
